@@ -70,3 +70,5 @@ Estudante de Ciência da Computação.
 ## 📫 Contato
 
 GitHub: https://github.com/fernandolth
+Email: fernandolealth@gmail.com
+Linkedin: https://www.linkedin.com/in/fernandothomazini/
